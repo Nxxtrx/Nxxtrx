@@ -1,22 +1,22 @@
 <body>
 
 <h1 align="center">
-    <img src="./anime.gif"  width="50px">
+    <img src="./assets/header__left.gif"  width="50px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&weight=900&size=37&duration=3000&pause=500&color=A77BF7C8&background=3925FF00&center=true&multiline=true&width=480&lines=Welcome+to+my+profile" alt="Typing SVG" />
-    <img src="./anime11.gif"  width="50px">
+    <img src="./assets/header__right.gif"  width="50px">
 </h1>
 <br>
 <div>
 <h2 align="center"> 👾 Обо мне 👾 </h2>
   <div align="center">
-<img src="main1.gif" align="right" width="300px">
+<img src="assets/main.gif" align="right" width="300px">
   </div>
 
-<p><img src="./fireball-pixel.gif" width="30px">  Меня зовут Денис, я Frontend developer</p>
-<p><img src="./fireball-pixel.gif" width="30px"> Обучаюсь в Яндекс.Практикум на курсе Веб-разработчик</p>
-<p><img src="./fireball-pixel.gif" width="30px"> Люблю слушать музыку и изучать что-то новое</p>
-<p><img src="./fireball-pixel.gif" width="30px"> Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
-<p><img src="./fireball-pixel.gif" width="30px"> Контакты:&nbsp 
+<p><img src="./assets/fireball.gif" width="30px">  Меня зовут Денис, я Frontend developer</p>
+<p><img src="./assets/fireball.gif" width="30px"> Обучаюсь в Яндекс.Практикум на курсе Веб-разработчик</p>
+<p><img src="./assets/fireball.gif" width="30px"> Люблю слушать музыку и изучать что-то новое</p>
+<p><img src="./assets/fireball.gif" width="30px"> Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
+<p><img src="./assets/fireball.gif" width="30px"> Контакты:&nbsp 
   <a href="https://t.me/nxxtrx">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?logo=telegram&logoColor=white" alt="telegram">
   </a> 
