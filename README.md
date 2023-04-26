@@ -7,12 +7,14 @@
 </h1>
 <div>    
     <h3  align="center">Frontend Developer</h3>
+    <p align="center">Россия</p>
     <p align="center">
       <a href="https://t.me/nxxtrx">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?logo=telegram&logoColor=white" alt="telegram">
       </a> 
     </p>
-</div>    
+</div>
+
 <div>
 <h2 align="center"> 👾 Обо мне 👾 </h2>
   <div align="center">
@@ -23,8 +25,9 @@
 <p><img src="./assets/fireball.gif" width="30px"> Обучаюсь в Яндекс.Практикум на курсе Веб-разработчик</p>
 <p><img src="./assets/fireball.gif" width="30px"> Люблю слушать музыку и изучать что-то новое</p>
 <p><img src="./assets/fireball.gif" width="30px"> Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
-<p><img src="./assets/fireball.gif" width="30px"> Проживаю в России</p>
 
+
+<br>
 <br>
 <div>
   <h2 align="center">💥Мой стек💥</h2>
