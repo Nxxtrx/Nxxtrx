@@ -5,7 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&weight=900&size=37&duration=3000&pause=500&color=A77BF7C8&background=3925FF00&center=true&multiline=true&width=480&lines=Welcome+to+my+profile" alt="Typing SVG" />
     <img src="./assets/header__right.gif"  width="50px">
 </h1>
-<br>
+<div>    
+    <h3  align="center">Frontend Developer</h3>
+    <p align="center">
+      <a href="https://t.me/nxxtrx">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?logo=telegram&logoColor=white" alt="telegram">
+      </a> 
+    </p>
+</div>    
 <div>
 <h2 align="center"> 👾 Обо мне 👾 </h2>
   <div align="center">
@@ -16,11 +23,8 @@
 <p><img src="./assets/fireball.gif" width="30px"> Обучаюсь в Яндекс.Практикум на курсе Веб-разработчик</p>
 <p><img src="./assets/fireball.gif" width="30px"> Люблю слушать музыку и изучать что-то новое</p>
 <p><img src="./assets/fireball.gif" width="30px"> Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
-<p><img src="./assets/fireball.gif" width="30px"> Контакты:&nbsp 
-  <a href="https://t.me/nxxtrx">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?logo=telegram&logoColor=white" alt="telegram">
-  </a> 
-</p>
+<p><img src="./assets/fireball.gif" width="30px"> Проживаю в России</p>
+
 <br>
 <div>
   <h2 align="center">💥Мой стек💥</h2>
