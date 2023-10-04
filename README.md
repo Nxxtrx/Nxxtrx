@@ -13,7 +13,7 @@
   </div>
 
 <p><img src="./assets/fireball.gif" width="30px">  Меня зовут Денис, я Frontend developer</p>
-<p><img src="./assets/fireball.gif" width="30px"> Обучаюсь в Яндекс.Практикум на курсе Веб-разработчик</p>
+<p><img src="./assets/fireball.gif" width="30px"> Закончил обучение в Яндекс.Практикум на курсе Веб-разработчик</p>
 <p><img src="./assets/fireball.gif" width="30px"> Люблю слушать музыку и изучать что-то новое</p>
 <p><img src="./assets/fireball.gif" width="30px"> Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
 <p><img src="./assets/fireball.gif" width="30px"> Контакты:
