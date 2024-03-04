@@ -3,10 +3,10 @@
 <h1 align="center">Привет 👀</h1>
 <br>
 
-<p>-🧑‍🌾 Меня зовут Денис, я Frontend developer</p>
+<p>-🧑‍🌾 Меня зовут Денис, я Frontend developer. Проживаю в городе Уфе 🏠</p>
 <p>-📘 Имею профильное образование по направлению "Проектирование и разработка системного и прикладного программного обеспечения"</p>
 <p>-💭 Хочу попасть в продуктовую компанию, для повышения своих навыков</p>
-<p>-💾 Изучаю React, TypeScript, Redux</p>
+<p>-💾 На данный момент занимаюсь изучением TypeScript и Redux</p>
 <p>-✒️ Контакты:
     <a href="https://t.me/nxxtrx">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge?logo=telegram&logoColor=white" alt="telegram">
