@@ -1,6 +1,6 @@
 <body>
 
-<h1 align="center">Всем привет 👀</h1>
+<h1 align="center">Привет 👀</h1>
 <br>
 
 <p>-🧑‍🌾 Меня зовут Денис, я Frontend developer</p>
@@ -19,7 +19,7 @@
   <h2 align="center">🔨 Мой стек</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,redux,webpack,git,scss,figma" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,redux,webpack,git,scss,figma" />
   </a>
 </p>
 </div>
